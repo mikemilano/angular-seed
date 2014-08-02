@@ -1,0 +1,7 @@
+*.log
+node_modules
+components/
+dist/
+doc/
+.idea/
+.DS_Store
